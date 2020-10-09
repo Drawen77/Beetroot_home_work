@@ -1,0 +1,35 @@
+.rightpic {
+    float: right;
+    width: 100px;
+    height: 100px;
+}
+
+.leftcolumn {
+    float: left;
+    display: inline-block;
+    width: 250px;
+    background-color: rgb(241, 213, 194);
+    border: 5px blueviolet;
+}
+
+.rightcolumn {
+    display: inline-block;
+    background-color: rgb(228, 213, 213);
+    width: 100%;
+}
+
+#all {
+    display: flex;
+    vertical-align: bottom;
+    border-radius: 15px;
+}
+
+#bttn {
+    background-color: rgb(228, 213, 213);
+    border-radius: 10px;
+
+}
+
+h1, h2 {
+    text-align: center;
+}
